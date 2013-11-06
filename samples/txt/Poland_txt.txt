@@ -1,0 +1,234 @@
+BOOX to czytnik zaprojektowany i stworzony przez Onyx International, grup. profesjonalist車w kt車rzy po.wi.cili si. zaprojektowaniu wydajnego i efektownie wygl.daj.cego terminalu do czytania. O pi.knie urz.dzenia stanowi. jego prostota i funkcjonalno... Zamierzamy pokaza., .e BOOX jest przyst.pn. i elastyczn. platform. zar車wno dla konsument車w, jak i dla dostawc車w tre.ci. Urz.dzenie posiada ekran wykonany z papieru elektronicznego o 8-stopniowej (lub 16-stopniowej)  skali szaro.ci. Pasywne o.wietlenie  oraz nieodbijaj.cy .wiat.a ekran nie powoduj. zm.czenia oczu podczas czytania. System odr.cznego pisania pozwala na dodawanie notatek podczas czytania oraz na robienie rysunk車w oraz szkic車w. BOOX posiada wielka zalet. z racji zastosowania nowej technologi w produkcji e-atramentu 每 maksymalne obni.enie poboru pr.du podczas dzia.ania. Ka.de pe.ne na.adowanie baterii pozwala na kilkutygodniowe korzystanie z czytnika.  Dzi.ki zastosowaniu w pe.ni funkcjonalnego elektronicznego zamiennika tradycyjnego  papieru  pomagamy chroni. .rodowisko naturalne, nie po.wi.caj.c przy tym w.asnej wygody i przyzwyczaje里. 
+
+Wskaz車wki 
+Prosz. zapoznaj si. uwa.nie z podanymi w tej instrukcji wskaz車wkami i zaleceniami. Nieprzestrzeganie informacji zawartych w niniejszej instrukcji, mo.e by. niebezpieczne dla zdrowia, niezgodne z prawem lub mo.e skutkowa. utrat. gwarancji. 
+Opis poszczeg車lnych ikon oraz ich funkcji, zawarty w niniejszej instrukcji, mo.e nieznacznie r車.ni. si. od faktycznego ich dzia.ania. Wi..e si. to z procesem poprawy funkcjonalno.ci oprogramowania. 
+Korzystaj.c z funkcji tego urz.dzenia, stosuj si. do wszystkich przepis車w prawa, przestrzegaj lokalnych obyczaj車w, szanuj prywatno.. i uzasadnione prawa innych os車b, w tym prawa autorskie. U.ywaj urz.dzenia zgodnie z przeznaczeniem. 
+Kopiowanie, modyfikacja lub przesy.anie niekt車rych zdj.., utwor車w muzycznych i innych materia.車w mo.e by. niemo.liwe ze wzgl.du na ochron. praw autorskich. 
+W urz.dzeniu mog. by. zapisane zak.adki lub ..cza do witryn internetowych innych firm. Witryny te nie s. powi.zane z firm. Onyx, czyli firma Onyx nie ponosi za nie odpowiedzialno.ci. Stosuj wszystkie .rodki ostro.no.ci w odniesieniu do bezpiecze里stwa i materia.車w w tych witrynach, je.li zdecydujesz si. z nich korzysta.. 
+Produkt powinien by. u.ywany w spos車b opisany w instrukcji. Najnowsze aktualizacje 
+i informacje s. dost.pne pod adresami: onyx-ereader.pl oraz www.onyx-international.com. 
+Zewn.trzna warstwa ekranu jest w du.ym stopniu odporna na zadrapani (zarysowania), lecz przy nierozwa.nym traktowaniu mo.e ulec uszkodzeniu. 
+Optymalne temperatury pracy : od 0 st. C do 50 st. C Temperatury magazynowania : od 每 20 st. C do 70 st. C Nie wystawia. urz.dzenia na dzia.anie wilgoci, deszczu lub ekstremalnych temperatur (silnego gor.ca, zimna). 
+
+.rodki ostro.no.ci 
+WA.NE: Prosz. unika. nadmiernego nacisku na ekran. Ekran posiada szklan. podstaw., kt車ra pod wp.ywem przy.o.enia zbyt du.ej si.y mo.e ulec uszkodzeniu. 
+WA.NE: Korzystaj wy..cznie z baterii, .adowarek i innych akcesori車w zatwierdzonych przez firm. Onyx do u.ytku z tym w.a.nie modelem urz.dzenia. Stosowanie akcesori車w innego typu mo.e uniewa.ni. gwarancj. na urz.dzenie i by. r車wnie. niebezpieczne dla u.ytkownika. Chwytaj zawsze za wtyczk. 〞 nie za przew車d, od..czaj.c kt車regokolwiek z akcesori車w. 
+WA.NE: Nigdy nie wyjmuj karty pami.ci podczas wykonywania operacji na tej karcie. Mo.e to skutkowa. uszkodzenie samej karty pami.ci, urz.dzenia, jak r車wnie. uszkodzeniu mog. ulec dane zapisane na karcie. 
+OSTRZE.ENIE Nie nale.y samodzielnie otwiera. urz.dzenia (rozkr.ca. obudowy) -spowoduje to uniewa.nienie gwarancji. Naprawy mog. by. dokonywane tylko przez wykwalifikowany personel serwisowy. Prosz. skontaktowa. si. ze sprzedawc. w przypadku problem車w technicznych. 
+OSTRZE.ENIE: Muzyki nale.y s.ucha. na umiarkowanym poziomie g.o.no.ci. D.ugotrwa.e s.uchanie bardzo g.o.nych d.wi.k車w (muzyki) mo.e powodowa. uszkodzenie s.uchu. 
+OSTRZE.ENIE: Urz.dzenie oraz jego akcesoria mog. si. sk.ada. z drobnych cz..ci. Nale.y je przechowywa. w miejscach niedost.pnych dla ma.ych dzieci, gdy. mog. by. one po.kni.te b.d. wch.oni.te. 
+
+ 1 W..cznik 
+Aby w..czy. czytnik przyci.nij przycisk w./wy. i przytrzymaj przez 2 sekundy, poczekaj a. system si. za.aduje. 
+Aby wy..czy. czytnik przyci.nij przycisk w./wy. przez 2 sekundy. Podobnie dzia.a wybranie opcji ''Wy..cz '' w menu. 
+Aby przej.. w stan u.pienia przyci.nij i pu.. szybko przycisk w./wy.. Podobnie dzia.a wyb車r opcji .U.pienie§ w menu.
+
+ 2 Przycisk Menu 
+
+Wybierz Przycisk Menu aby uwidoczni. opcje menu. 
+Podobnie dzia.a wybranie pi車rkiem ikonki:
+
+ 3 Przycisk WR車. 
+Zamyka aktualnie otwarty dokument. Zamyka otwarte okno lub aplikacj.. Przy przegl.daniu zawarto.ci urz.dzenia przechodzi do katalogu wy.ej.
+
+ 4 Przycisk NAST.PNY 
+Przenosi na nast.pn. stron. przegl.danego dokumentu, przytrzymanie to skok o kilka stron. Przenosi na nast.pna stron. podczas wyboru dokument車w w g.車wnym oknie. 
+
+ 5 Przycisk POPRZEDNI 
+Przenosi na poprzedni. stron. przegl.danego dokumentu, przytrzymanie to skok o kilka stron. Przenosi na poprzedni. stron. podczas wyboru dokument車w w g.車wnym oknie.
+
+ 6 5-kierunkowy Inteligentny Przycisk 
+Nawiguj przesuwaj.c palcem po inteligentnym przycisku w 4 kierunkach 每 do g車ry, w d車., w lewo, w prawo. W ten spos車b zaznaczamy plik lub lokalizacj. do kt車rej chcemy przej.., np. przej.cie z .Karty SD§ na .Biblioteka§ nast.puje po przesuni.ciu z prawa do lewa po przycisku. Wywo.ujemy przej.cie do wybranej lokalizacji naciskaj.c ten przycisk .OK§. 
+Przyciskaj.c 5-kierunkowy przycisk wywo.ujemy wi.kszo.. akcji w systemie .OK§. B.dzie to: przej.cie do wybranej lokalizacji, otwarcie pliku lub aplikacji, potwierdzenie (zapisanie) dokonywanych zmian. 
+D.u.sze naci.ni.cie przycisku (4 sekundy) powoduje zamkni.cie aktualnie otwartego dokumentu lub aplikacji.
+
+ 7 Przyciski g.o.no.ci 
+Zwi.kszenie g.o.no.ci 每 przycisk Vol +. 
+Zmniejszenie g.o.no.ci 每 przycisk Vol -.
+
+ 8 Port s.uchawek 
+Wej.cie s.uchawek ma 3,5 mm .rednicy S.u.y do pod..czenia s.uchawek. 
+OSTRO.NIE: W czasie korzystania z zestawu s.uchawkowego s.yszalno.. d.wi.k車w z otoczenia mo.e by. ograniczona. Nie u.ywaj zestawu s.uchawkowego, je.li mo.e to zagra.a. Twojemu bezpiecze里stwu. 
+
+
+Interfejs u.ytkownika
+Widok g.車wny 
+Ikony zosta.y zorganizowane podobnie jak w wielu popularnych systemach operacyjnych. G.車wny widok menu ekranu daje dost.p do pami.ci, ustawie里 urz.dzenia i przegl.darki internetowej . 
+
+BOOX to czytnik zaprojektowany i stworzony przez Onyx International, grup. profesjonalist車w kt車rzy po.wi.cili si. zaprojektowaniu wydajnego i efektownie wygl.daj.cego terminalu do czytania. O pi.knie urz.dzenia stanowi. jego prostota i funkcjonalno... Zamierzamy pokaza., .e BOOX jest przyst.pn. i elastyczn. platform. zar車wno dla konsument車w, jak i dla dostawc車w tre.ci. Urz.dzenie posiada ekran wykonany z papieru elektronicznego o 8-stopniowej (lub 16-stopniowej)  skali szaro.ci. Pasywne o.wietlenie  oraz nieodbijaj.cy .wiat.a ekran nie powoduj. zm.czenia oczu podczas czytania. System odr.cznego pisania pozwala na dodawanie notatek podczas czytania oraz na robienie rysunk車w oraz szkic車w. BOOX posiada wielka zalet. z racji zastosowania nowej technologi w produkcji e-atramentu 每 maksymalne obni.enie poboru pr.du podczas dzia.ania. Ka.de pe.ne na.adowanie baterii pozwala na kilkutygodniowe korzystanie z czytnika.  Dzi.ki zastosowaniu w pe.ni funkcjonalnego elektronicznego zamiennika tradycyjnego  papieru  pomagamy chroni. .rodowisko naturalne, nie po.wi.caj.c przy tym w.asnej wygody i przyzwyczaje里. 
+
+Wskaz車wki 
+Prosz. zapoznaj si. uwa.nie z podanymi w tej instrukcji wskaz車wkami i zaleceniami. Nieprzestrzeganie informacji zawartych w niniejszej instrukcji, mo.e by. niebezpieczne dla zdrowia, niezgodne z prawem lub mo.e skutkowa. utrat. gwarancji. 
+Opis poszczeg車lnych ikon oraz ich funkcji, zawarty w niniejszej instrukcji, mo.e nieznacznie r車.ni. si. od faktycznego ich dzia.ania. Wi..e si. to z procesem poprawy funkcjonalno.ci oprogramowania. 
+Korzystaj.c z funkcji tego urz.dzenia, stosuj si. do wszystkich przepis車w prawa, przestrzegaj lokalnych obyczaj車w, szanuj prywatno.. i uzasadnione prawa innych os車b, w tym prawa autorskie. U.ywaj urz.dzenia zgodnie z przeznaczeniem. 
+Kopiowanie, modyfikacja lub przesy.anie niekt車rych zdj.., utwor車w muzycznych i innych materia.車w mo.e by. niemo.liwe ze wzgl.du na ochron. praw autorskich. 
+W urz.dzeniu mog. by. zapisane zak.adki lub ..cza do witryn internetowych innych firm. Witryny te nie s. powi.zane z firm. Onyx, czyli firma Onyx nie ponosi za nie odpowiedzialno.ci. Stosuj wszystkie .rodki ostro.no.ci w odniesieniu do bezpiecze里stwa i materia.車w w tych witrynach, je.li zdecydujesz si. z nich korzysta.. 
+Produkt powinien by. u.ywany w spos車b opisany w instrukcji. Najnowsze aktualizacje 
+i informacje s. dost.pne pod adresami: onyx-ereader.pl oraz www.onyx-international.com. 
+Zewn.trzna warstwa ekranu jest w du.ym stopniu odporna na zadrapani (zarysowania), lecz przy nierozwa.nym traktowaniu mo.e ulec uszkodzeniu. 
+Optymalne temperatury pracy : od 0 st. C do 50 st. C Temperatury magazynowania : od 每 20 st. C do 70 st. C Nie wystawia. urz.dzenia na dzia.anie wilgoci, deszczu lub ekstremalnych temperatur (silnego gor.ca, zimna). 
+
+.rodki ostro.no.ci 
+WA.NE: Prosz. unika. nadmiernego nacisku na ekran. Ekran posiada szklan. podstaw., kt車ra pod wp.ywem przy.o.enia zbyt du.ej si.y mo.e ulec uszkodzeniu. 
+WA.NE: Korzystaj wy..cznie z baterii, .adowarek i innych akcesori車w zatwierdzonych przez firm. Onyx do u.ytku z tym w.a.nie modelem urz.dzenia. Stosowanie akcesori車w innego typu mo.e uniewa.ni. gwarancj. na urz.dzenie i by. r車wnie. niebezpieczne dla u.ytkownika. Chwytaj zawsze za wtyczk. 〞 nie za przew車d, od..czaj.c kt車regokolwiek z akcesori車w. 
+WA.NE: Nigdy nie wyjmuj karty pami.ci podczas wykonywania operacji na tej karcie. Mo.e to skutkowa. uszkodzenie samej karty pami.ci, urz.dzenia, jak r車wnie. uszkodzeniu mog. ulec dane zapisane na karcie. 
+OSTRZE.ENIE Nie nale.y samodzielnie otwiera. urz.dzenia (rozkr.ca. obudowy) -spowoduje to uniewa.nienie gwarancji. Naprawy mog. by. dokonywane tylko przez wykwalifikowany personel serwisowy. Prosz. skontaktowa. si. ze sprzedawc. w przypadku problem車w technicznych. 
+OSTRZE.ENIE: Muzyki nale.y s.ucha. na umiarkowanym poziomie g.o.no.ci. D.ugotrwa.e s.uchanie bardzo g.o.nych d.wi.k車w (muzyki) mo.e powodowa. uszkodzenie s.uchu. 
+OSTRZE.ENIE: Urz.dzenie oraz jego akcesoria mog. si. sk.ada. z drobnych cz..ci. Nale.y je przechowywa. w miejscach niedost.pnych dla ma.ych dzieci, gdy. mog. by. one po.kni.te b.d. wch.oni.te. 
+
+ 1 W..cznik 
+Aby w..czy. czytnik przyci.nij przycisk w./wy. i przytrzymaj przez 2 sekundy, poczekaj a. system si. za.aduje. 
+Aby wy..czy. czytnik przyci.nij przycisk w./wy. przez 2 sekundy. Podobnie dzia.a wybranie opcji ''Wy..cz '' w menu. 
+Aby przej.. w stan u.pienia przyci.nij i pu.. szybko przycisk w./wy.. Podobnie dzia.a wyb車r opcji .U.pienie§ w menu.
+
+ 2 Przycisk Menu 
+
+Wybierz Przycisk Menu aby uwidoczni. opcje menu. 
+Podobnie dzia.a wybranie pi車rkiem ikonki:
+
+ 3 Przycisk WR車. 
+Zamyka aktualnie otwarty dokument. Zamyka otwarte okno lub aplikacj.. Przy przegl.daniu zawarto.ci urz.dzenia przechodzi do katalogu wy.ej.
+
+ 4 Przycisk NAST.PNY 
+Przenosi na nast.pn. stron. przegl.danego dokumentu, przytrzymanie to skok o kilka stron. Przenosi na nast.pna stron. podczas wyboru dokument車w w g.車wnym oknie. 
+
+ 5 Przycisk POPRZEDNI 
+Przenosi na poprzedni. stron. przegl.danego dokumentu, przytrzymanie to skok o kilka stron. Przenosi na poprzedni. stron. podczas wyboru dokument車w w g.車wnym oknie.
+
+ 6 5-kierunkowy Inteligentny Przycisk 
+Nawiguj przesuwaj.c palcem po inteligentnym przycisku w 4 kierunkach 每 do g車ry, w d車., w lewo, w prawo. W ten spos車b zaznaczamy plik lub lokalizacj. do kt車rej chcemy przej.., np. przej.cie z .Karty SD§ na .Biblioteka§ nast.puje po przesuni.ciu z prawa do lewa po przycisku. Wywo.ujemy przej.cie do wybranej lokalizacji naciskaj.c ten przycisk .OK§. 
+Przyciskaj.c 5-kierunkowy przycisk wywo.ujemy wi.kszo.. akcji w systemie .OK§. B.dzie to: przej.cie do wybranej lokalizacji, otwarcie pliku lub aplikacji, potwierdzenie (zapisanie) dokonywanych zmian. 
+D.u.sze naci.ni.cie przycisku (4 sekundy) powoduje zamkni.cie aktualnie otwartego dokumentu lub aplikacji.
+
+ 7 Przyciski g.o.no.ci 
+Zwi.kszenie g.o.no.ci 每 przycisk Vol +. 
+Zmniejszenie g.o.no.ci 每 przycisk Vol -.
+
+ 8 Port s.uchawek 
+Wej.cie s.uchawek ma 3,5 mm .rednicy S.u.y do pod..czenia s.uchawek. 
+OSTRO.NIE: W czasie korzystania z zestawu s.uchawkowego s.yszalno.. d.wi.k車w z otoczenia mo.e by. ograniczona. Nie u.ywaj zestawu s.uchawkowego, je.li mo.e to zagra.a. Twojemu bezpiecze里stwu. 
+
+
+Interfejs u.ytkownika
+Widok g.車wny 
+Ikony zosta.y zorganizowane podobnie jak w wielu popularnych systemach operacyjnych. G.車wny widok menu ekranu daje dost.p do pami.ci, ustawie里 urz.dzenia i przegl.darki internetowej . 
+
+
+BOOX to czytnik zaprojektowany i stworzony przez Onyx International, grup. profesjonalist車w kt車rzy po.wi.cili si. zaprojektowaniu wydajnego i efektownie wygl.daj.cego terminalu do czytania. O pi.knie urz.dzenia stanowi. jego prostota i funkcjonalno... Zamierzamy pokaza., .e BOOX jest przyst.pn. i elastyczn. platform. zar車wno dla konsument車w, jak i dla dostawc車w tre.ci. Urz.dzenie posiada ekran wykonany z papieru elektronicznego o 8-stopniowej (lub 16-stopniowej)  skali szaro.ci. Pasywne o.wietlenie  oraz nieodbijaj.cy .wiat.a ekran nie powoduj. zm.czenia oczu podczas czytania. System odr.cznego pisania pozwala na dodawanie notatek podczas czytania oraz na robienie rysunk車w oraz szkic車w. BOOX posiada wielka zalet. z racji zastosowania nowej technologi w produkcji e-atramentu 每 maksymalne obni.enie poboru pr.du podczas dzia.ania. Ka.de pe.ne na.adowanie baterii pozwala na kilkutygodniowe korzystanie z czytnika.  Dzi.ki zastosowaniu w pe.ni funkcjonalnego elektronicznego zamiennika tradycyjnego  papieru  pomagamy chroni. .rodowisko naturalne, nie po.wi.caj.c przy tym w.asnej wygody i przyzwyczaje里. 
+
+Wskaz車wki 
+Prosz. zapoznaj si. uwa.nie z podanymi w tej instrukcji wskaz車wkami i zaleceniami. Nieprzestrzeganie informacji zawartych w niniejszej instrukcji, mo.e by. niebezpieczne dla zdrowia, niezgodne z prawem lub mo.e skutkowa. utrat. gwarancji. 
+Opis poszczeg車lnych ikon oraz ich funkcji, zawarty w niniejszej instrukcji, mo.e nieznacznie r車.ni. si. od faktycznego ich dzia.ania. Wi..e si. to z procesem poprawy funkcjonalno.ci oprogramowania. 
+Korzystaj.c z funkcji tego urz.dzenia, stosuj si. do wszystkich przepis車w prawa, przestrzegaj lokalnych obyczaj車w, szanuj prywatno.. i uzasadnione prawa innych os車b, w tym prawa autorskie. U.ywaj urz.dzenia zgodnie z przeznaczeniem. 
+Kopiowanie, modyfikacja lub przesy.anie niekt車rych zdj.., utwor車w muzycznych i innych materia.車w mo.e by. niemo.liwe ze wzgl.du na ochron. praw autorskich. 
+W urz.dzeniu mog. by. zapisane zak.adki lub ..cza do witryn internetowych innych firm. Witryny te nie s. powi.zane z firm. Onyx, czyli firma Onyx nie ponosi za nie odpowiedzialno.ci. Stosuj wszystkie .rodki ostro.no.ci w odniesieniu do bezpiecze里stwa i materia.車w w tych witrynach, je.li zdecydujesz si. z nich korzysta.. 
+Produkt powinien by. u.ywany w spos車b opisany w instrukcji. Najnowsze aktualizacje 
+i informacje s. dost.pne pod adresami: onyx-ereader.pl oraz www.onyx-international.com. 
+Zewn.trzna warstwa ekranu jest w du.ym stopniu odporna na zadrapani (zarysowania), lecz przy nierozwa.nym traktowaniu mo.e ulec uszkodzeniu. 
+Optymalne temperatury pracy : od 0 st. C do 50 st. C Temperatury magazynowania : od 每 20 st. C do 70 st. C Nie wystawia. urz.dzenia na dzia.anie wilgoci, deszczu lub ekstremalnych temperatur (silnego gor.ca, zimna). 
+
+.rodki ostro.no.ci 
+WA.NE: Prosz. unika. nadmiernego nacisku na ekran. Ekran posiada szklan. podstaw., kt車ra pod wp.ywem przy.o.enia zbyt du.ej si.y mo.e ulec uszkodzeniu. 
+WA.NE: Korzystaj wy..cznie z baterii, .adowarek i innych akcesori車w zatwierdzonych przez firm. Onyx do u.ytku z tym w.a.nie modelem urz.dzenia. Stosowanie akcesori車w innego typu mo.e uniewa.ni. gwarancj. na urz.dzenie i by. r車wnie. niebezpieczne dla u.ytkownika. Chwytaj zawsze za wtyczk. 〞 nie za przew車d, od..czaj.c kt車regokolwiek z akcesori車w. 
+WA.NE: Nigdy nie wyjmuj karty pami.ci podczas wykonywania operacji na tej karcie. Mo.e to skutkowa. uszkodzenie samej karty pami.ci, urz.dzenia, jak r車wnie. uszkodzeniu mog. ulec dane zapisane na karcie. 
+OSTRZE.ENIE Nie nale.y samodzielnie otwiera. urz.dzenia (rozkr.ca. obudowy) -spowoduje to uniewa.nienie gwarancji. Naprawy mog. by. dokonywane tylko przez wykwalifikowany personel serwisowy. Prosz. skontaktowa. si. ze sprzedawc. w przypadku problem車w technicznych. 
+OSTRZE.ENIE: Muzyki nale.y s.ucha. na umiarkowanym poziomie g.o.no.ci. D.ugotrwa.e s.uchanie bardzo g.o.nych d.wi.k車w (muzyki) mo.e powodowa. uszkodzenie s.uchu. 
+OSTRZE.ENIE: Urz.dzenie oraz jego akcesoria mog. si. sk.ada. z drobnych cz..ci. Nale.y je przechowywa. w miejscach niedost.pnych dla ma.ych dzieci, gdy. mog. by. one po.kni.te b.d. wch.oni.te. 
+
+ 1 W..cznik 
+Aby w..czy. czytnik przyci.nij przycisk w./wy. i przytrzymaj przez 2 sekundy, poczekaj a. system si. za.aduje. 
+Aby wy..czy. czytnik przyci.nij przycisk w./wy. przez 2 sekundy. Podobnie dzia.a wybranie opcji ''Wy..cz '' w menu. 
+Aby przej.. w stan u.pienia przyci.nij i pu.. szybko przycisk w./wy.. Podobnie dzia.a wyb車r opcji .U.pienie§ w menu.
+
+ 2 Przycisk Menu 
+
+Wybierz Przycisk Menu aby uwidoczni. opcje menu. 
+Podobnie dzia.a wybranie pi車rkiem ikonki:
+
+ 3 Przycisk WR車. 
+Zamyka aktualnie otwarty dokument. Zamyka otwarte okno lub aplikacj.. Przy przegl.daniu zawarto.ci urz.dzenia przechodzi do katalogu wy.ej.
+
+ 4 Przycisk NAST.PNY 
+Przenosi na nast.pn. stron. przegl.danego dokumentu, przytrzymanie to skok o kilka stron. Przenosi na nast.pna stron. podczas wyboru dokument車w w g.車wnym oknie. 
+
+ 5 Przycisk POPRZEDNI 
+Przenosi na poprzedni. stron. przegl.danego dokumentu, przytrzymanie to skok o kilka stron. Przenosi na poprzedni. stron. podczas wyboru dokument車w w g.車wnym oknie.
+
+ 6 5-kierunkowy Inteligentny Przycisk 
+Nawiguj przesuwaj.c palcem po inteligentnym przycisku w 4 kierunkach 每 do g車ry, w d車., w lewo, w prawo. W ten spos車b zaznaczamy plik lub lokalizacj. do kt車rej chcemy przej.., np. przej.cie z .Karty SD§ na .Biblioteka§ nast.puje po przesuni.ciu z prawa do lewa po przycisku. Wywo.ujemy przej.cie do wybranej lokalizacji naciskaj.c ten przycisk .OK§. 
+Przyciskaj.c 5-kierunkowy przycisk wywo.ujemy wi.kszo.. akcji w systemie .OK§. B.dzie to: przej.cie do wybranej lokalizacji, otwarcie pliku lub aplikacji, potwierdzenie (zapisanie) dokonywanych zmian. 
+D.u.sze naci.ni.cie przycisku (4 sekundy) powoduje zamkni.cie aktualnie otwartego dokumentu lub aplikacji.
+
+ 7 Przyciski g.o.no.ci 
+Zwi.kszenie g.o.no.ci 每 przycisk Vol +. 
+Zmniejszenie g.o.no.ci 每 przycisk Vol -.
+
+ 8 Port s.uchawek 
+Wej.cie s.uchawek ma 3,5 mm .rednicy S.u.y do pod..czenia s.uchawek. 
+OSTRO.NIE: W czasie korzystania z zestawu s.uchawkowego s.yszalno.. d.wi.k車w z otoczenia mo.e by. ograniczona. Nie u.ywaj zestawu s.uchawkowego, je.li mo.e to zagra.a. Twojemu bezpiecze里stwu. 
+
+
+Interfejs u.ytkownika
+Widok g.車wny 
+Ikony zosta.y zorganizowane podobnie jak w wielu popularnych systemach operacyjnych. G.車wny widok menu ekranu daje dost.p do pami.ci, ustawie里 urz.dzenia i przegl.darki internetowej . 
+
+
+BOOX to czytnik zaprojektowany i stworzony przez Onyx International, grup. profesjonalist車w kt車rzy po.wi.cili si. zaprojektowaniu wydajnego i efektownie wygl.daj.cego terminalu do czytania. O pi.knie urz.dzenia stanowi. jego prostota i funkcjonalno... Zamierzamy pokaza., .e BOOX jest przyst.pn. i elastyczn. platform. zar車wno dla konsument車w, jak i dla dostawc車w tre.ci. Urz.dzenie posiada ekran wykonany z papieru elektronicznego o 8-stopniowej (lub 16-stopniowej)  skali szaro.ci. Pasywne o.wietlenie  oraz nieodbijaj.cy .wiat.a ekran nie powoduj. zm.czenia oczu podczas czytania. System odr.cznego pisania pozwala na dodawanie notatek podczas czytania oraz na robienie rysunk車w oraz szkic車w. BOOX posiada wielka zalet. z racji zastosowania nowej technologi w produkcji e-atramentu 每 maksymalne obni.enie poboru pr.du podczas dzia.ania. Ka.de pe.ne na.adowanie baterii pozwala na kilkutygodniowe korzystanie z czytnika.  Dzi.ki zastosowaniu w pe.ni funkcjonalnego elektronicznego zamiennika tradycyjnego  papieru  pomagamy chroni. .rodowisko naturalne, nie po.wi.caj.c przy tym w.asnej wygody i przyzwyczaje里. 
+
+Wskaz車wki 
+Prosz. zapoznaj si. uwa.nie z podanymi w tej instrukcji wskaz車wkami i zaleceniami. Nieprzestrzeganie informacji zawartych w niniejszej instrukcji, mo.e by. niebezpieczne dla zdrowia, niezgodne z prawem lub mo.e skutkowa. utrat. gwarancji. 
+Opis poszczeg車lnych ikon oraz ich funkcji, zawarty w niniejszej instrukcji, mo.e nieznacznie r車.ni. si. od faktycznego ich dzia.ania. Wi..e si. to z procesem poprawy funkcjonalno.ci oprogramowania. 
+Korzystaj.c z funkcji tego urz.dzenia, stosuj si. do wszystkich przepis車w prawa, przestrzegaj lokalnych obyczaj車w, szanuj prywatno.. i uzasadnione prawa innych os車b, w tym prawa autorskie. U.ywaj urz.dzenia zgodnie z przeznaczeniem. 
+Kopiowanie, modyfikacja lub przesy.anie niekt車rych zdj.., utwor車w muzycznych i innych materia.車w mo.e by. niemo.liwe ze wzgl.du na ochron. praw autorskich. 
+W urz.dzeniu mog. by. zapisane zak.adki lub ..cza do witryn internetowych innych firm. Witryny te nie s. powi.zane z firm. Onyx, czyli firma Onyx nie ponosi za nie odpowiedzialno.ci. Stosuj wszystkie .rodki ostro.no.ci w odniesieniu do bezpiecze里stwa i materia.車w w tych witrynach, je.li zdecydujesz si. z nich korzysta.. 
+Produkt powinien by. u.ywany w spos車b opisany w instrukcji. Najnowsze aktualizacje 
+i informacje s. dost.pne pod adresami: onyx-ereader.pl oraz www.onyx-international.com. 
+Zewn.trzna warstwa ekranu jest w du.ym stopniu odporna na zadrapani (zarysowania), lecz przy nierozwa.nym traktowaniu mo.e ulec uszkodzeniu. 
+Optymalne temperatury pracy : od 0 st. C do 50 st. C Temperatury magazynowania : od 每 20 st. C do 70 st. C Nie wystawia. urz.dzenia na dzia.anie wilgoci, deszczu lub ekstremalnych temperatur (silnego gor.ca, zimna). 
+
+.rodki ostro.no.ci 
+WA.NE: Prosz. unika. nadmiernego nacisku na ekran. Ekran posiada szklan. podstaw., kt車ra pod wp.ywem przy.o.enia zbyt du.ej si.y mo.e ulec uszkodzeniu. 
+WA.NE: Korzystaj wy..cznie z baterii, .adowarek i innych akcesori車w zatwierdzonych przez firm. Onyx do u.ytku z tym w.a.nie modelem urz.dzenia. Stosowanie akcesori車w innego typu mo.e uniewa.ni. gwarancj. na urz.dzenie i by. r車wnie. niebezpieczne dla u.ytkownika. Chwytaj zawsze za wtyczk. 〞 nie za przew車d, od..czaj.c kt車regokolwiek z akcesori車w. 
+WA.NE: Nigdy nie wyjmuj karty pami.ci podczas wykonywania operacji na tej karcie. Mo.e to skutkowa. uszkodzenie samej karty pami.ci, urz.dzenia, jak r車wnie. uszkodzeniu mog. ulec dane zapisane na karcie. 
+OSTRZE.ENIE Nie nale.y samodzielnie otwiera. urz.dzenia (rozkr.ca. obudowy) -spowoduje to uniewa.nienie gwarancji. Naprawy mog. by. dokonywane tylko przez wykwalifikowany personel serwisowy. Prosz. skontaktowa. si. ze sprzedawc. w przypadku problem車w technicznych. 
+OSTRZE.ENIE: Muzyki nale.y s.ucha. na umiarkowanym poziomie g.o.no.ci. D.ugotrwa.e s.uchanie bardzo g.o.nych d.wi.k車w (muzyki) mo.e powodowa. uszkodzenie s.uchu. 
+OSTRZE.ENIE: Urz.dzenie oraz jego akcesoria mog. si. sk.ada. z drobnych cz..ci. Nale.y je przechowywa. w miejscach niedost.pnych dla ma.ych dzieci, gdy. mog. by. one po.kni.te b.d. wch.oni.te. 
+
+ 1 W..cznik 
+Aby w..czy. czytnik przyci.nij przycisk w./wy. i przytrzymaj przez 2 sekundy, poczekaj a. system si. za.aduje. 
+Aby wy..czy. czytnik przyci.nij przycisk w./wy. przez 2 sekundy. Podobnie dzia.a wybranie opcji ''Wy..cz '' w menu. 
+Aby przej.. w stan u.pienia przyci.nij i pu.. szybko przycisk w./wy.. Podobnie dzia.a wyb車r opcji .U.pienie§ w menu.
+
+ 2 Przycisk Menu 
+
+Wybierz Przycisk Menu aby uwidoczni. opcje menu. 
+Podobnie dzia.a wybranie pi車rkiem ikonki:
+
+ 3 Przycisk WR車. 
+Zamyka aktualnie otwarty dokument. Zamyka otwarte okno lub aplikacj.. Przy przegl.daniu zawarto.ci urz.dzenia przechodzi do katalogu wy.ej.
+
+ 4 Przycisk NAST.PNY 
+Przenosi na nast.pn. stron. przegl.danego dokumentu, przytrzymanie to skok o kilka stron. Przenosi na nast.pna stron. podczas wyboru dokument車w w g.車wnym oknie. 
+
+ 5 Przycisk POPRZEDNI 
+Przenosi na poprzedni. stron. przegl.danego dokumentu, przytrzymanie to skok o kilka stron. Przenosi na poprzedni. stron. podczas wyboru dokument車w w g.車wnym oknie.
+
+ 6 5-kierunkowy Inteligentny Przycisk 
+Nawiguj przesuwaj.c palcem po inteligentnym przycisku w 4 kierunkach 每 do g車ry, w d車., w lewo, w prawo. W ten spos車b zaznaczamy plik lub lokalizacj. do kt車rej chcemy przej.., np. przej.cie z .Karty SD§ na .Biblioteka§ nast.puje po przesuni.ciu z prawa do lewa po przycisku. Wywo.ujemy przej.cie do wybranej lokalizacji naciskaj.c ten przycisk .OK§. 
+Przyciskaj.c 5-kierunkowy przycisk wywo.ujemy wi.kszo.. akcji w systemie .OK§. B.dzie to: przej.cie do wybranej lokalizacji, otwarcie pliku lub aplikacji, potwierdzenie (zapisanie) dokonywanych zmian. 
+D.u.sze naci.ni.cie przycisku (4 sekundy) powoduje zamkni.cie aktualnie otwartego dokumentu lub aplikacji.
+
+ 7 Przyciski g.o.no.ci 
+Zwi.kszenie g.o.no.ci 每 przycisk Vol +. 
+Zmniejszenie g.o.no.ci 每 przycisk Vol -.
+
+ 8 Port s.uchawek 
+Wej.cie s.uchawek ma 3,5 mm .rednicy S.u.y do pod..czenia s.uchawek. 
+OSTRO.NIE: W czasie korzystania z zestawu s.uchawkowego s.yszalno.. d.wi.k車w z otoczenia mo.e by. ograniczona. Nie u.ywaj zestawu s.uchawkowego, je.li mo.e to zagra.a. Twojemu bezpiecze里stwu. 
+
+
+Interfejs u.ytkownika
+Widok g.車wny 
+Ikony zosta.y zorganizowane podobnie jak w wielu popularnych systemach operacyjnych. G.車wny widok menu ekranu daje dost.p do pami.ci, ustawie里 urz.dzenia i przegl.darki internetowej . 
+
